@@ -1,6 +1,6 @@
-def oxford_comma(array)
-hello = ["k", "i", "w", "i"]
-result = hello.join
-end
+# def oxford_comma(array)
+# hello = ["k", "i", "w", "i"]
+# result = hello.join
+# end
 
-oxford_comma("kiwi")
+# oxford_comma("kiwi")
