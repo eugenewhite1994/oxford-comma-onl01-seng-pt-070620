@@ -1,4 +1,4 @@
 def oxford_comma(array)
-hello = ["hippo", "giraffe", "monkey", "horse"]
+hello = ["k", "i", "w", "i"]
 result = hello.join
 end
