@@ -4,3 +4,8 @@
 # end
 
 # oxford_comma("kiwi")
+
+def oxford_comma(array)
+joinedArray = array.join
+array.insert(4, "and Durian")
+end
